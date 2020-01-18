@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CodeShare</string>
+    <string name="write_code_here">Write Code Here</string>
+    <string name="output_of_the_code">Output of the Code</string>
+    <string name="waiting_for_output">Waiting for Output</string>
+</resources>
